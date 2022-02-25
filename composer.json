@@ -13,8 +13,7 @@
     }],
     "require": {
         "php-webdriver/webdriver": "^1.0",
-        "laravel/dusk": "^6.0",
-        "phpunit/phpunit": "^9.5.13"
+        "laravel/dusk": "^6.0"
     },
     "require-dev": {
         "duncan3dc/object-intruder": "^0.3 || ^1.0",
